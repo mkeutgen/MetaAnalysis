@@ -1,6 +1,7 @@
 ---
 title: "MetaAnalysis Assignment"
-output: html_notebook
+date: "`r format(Sys.Date())`"
+output: github_document
 author: "Renée Claes and Maxime Keutgen"
 ---
 ## Introduction
