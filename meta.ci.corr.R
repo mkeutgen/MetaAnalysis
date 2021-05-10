@@ -4,6 +4,7 @@
 ## Author : Maxime Keutgen 
 ## Based on a paper of Douglas G. Bonett
 ## Paper title : Meta-Analytic Interval Estimation for Bivariate Correlations
+## Link of the paper : https://psycnet.apa.org/doiLanding?doi=10.1037%2Fa0012868
 ####################################
 meta.ci.corr <- function(rho.hat,n)
 {
